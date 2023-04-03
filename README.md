@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/KavinduJayathilaka?tab=repositories)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://kavindujayathilaka.netlify.app/)**
 
 - 📫 How to reach me **kavindu.geethanjanajayathilaka@yahoo.com / kavindu4246@gmail.com**
 
